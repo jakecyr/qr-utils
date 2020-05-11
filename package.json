@@ -1,0 +1,17 @@
+{
+    "name": "qr-util",
+    "version": "1.0.0",
+    "description": "Utilities to generate or read QR codes",
+    "main": "index.js",
+    "keywords": [
+        "qr code",
+        "qr"
+    ],
+    "author": "Jake Cyr",
+    "license": "ISC",
+    "dependencies": {
+        "jimp": "^0.10.3",
+        "qrcode": "^1.4.4",
+        "qrcode-reader": "^1.0.4"
+    }
+}
